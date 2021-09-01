@@ -1,7 +1,6 @@
-package com.github.endervan.cities.api;
+package com.github.endervan.cities.api.countries;
 
-import com.github.endervan.cities.api.Countries.Country;
-import com.github.endervan.cities.api.repository.CountryRepository;
+import com.github.endervan.cities.api.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

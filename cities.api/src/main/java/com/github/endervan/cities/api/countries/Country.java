@@ -1,4 +1,4 @@
-package com.github.endervan.cities.api.Countries;
+package com.github.endervan.cities.api.countries;
 
 
 import javax.persistence.Column;
